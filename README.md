@@ -1,5 +1,5 @@
 # AI-LAB
 
-Name : Abdulrehman Abbas \n
+Name : Abdulrehman Abbas <br />
 Roll no : BCS21246 
 
